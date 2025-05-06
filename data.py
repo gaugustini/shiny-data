@@ -7,25 +7,25 @@ OUTPUT_FOLDER = Path("output")
 FILES_DATA = ["armor.csv", "decoration.csv", "skill_tree.csv", "skill.csv"]
 FILES_TRANSLATIONS = ['head.csv', 'body.csv', 'arms.csv', 'waist.csv', 'legs.csv', 'decoration.csv', 'skill.csv', 'material.csv']
 
-def change_data_armor(dataframe):
+def change_data_armor(data: pd.DataFrame) -> pd.DataFrame:
     # Do changes on armor data here
-    return dataframe
+    return data
 
-def change_data_decoration(dataframe):
+def change_data_decoration(data: pd.DataFrame) -> pd.DataFrame:
     # Do changes on decoration data here
-    return dataframe
+    return data
 
-def change_data_skill_tree(dataframe):
+def change_data_skill_tree(data: pd.DataFrame) -> pd.DataFrame:
     # Do changes on skill tree data here
-    return dataframe
+    return data
 
-def change_data_skill(dataframe):
+def change_data_skill(data: pd.DataFrame) -> pd.DataFrame:
     # Do changes on skill data here
-    return dataframe
+    return data
 
-def change_data_translation(dataframe):
+def change_data_translation(data: pd.DataFrame) -> pd.DataFrame:
     # Do changes on translation data here
-    return dataframe
+    return data
 
 def process_file(input_path: Path, output_path: Path, transform_function):
     try:
