@@ -1,0 +1,100 @@
+game,name
+fu,Attack
+fu,Defense
+fu,Health
+fu,All Resist
+fu,Ice Res
+fu,Water Res
+fu,ThunderRes
+fu,Dragon Res
+fu,Fire Res
+fu,Faint
+fu,Poison
+fu,Paralysis
+fu,Sleep
+fu,Antiseptic
+fu,Fatigue
+fu,Snow Res
+fu,Quake Res
+fu,HearProtct
+fu,WindPress
+fu,Anti-Theft
+fu,ResistSts
+fu,AntiFirDrg
+fu,AntiDaora
+fu,AntiChamel
+fu,Artisan
+fu,Sharpness
+fu,Fencing
+fu,SwdShrpner
+fu,Guard
+fu,Auto-Guard
+fu,Sword Draw
+fu,Edgemaster
+fu,NormalS Up
+fu,PierceS Up
+fu,PelletS Up
+fu,NormalSAdd
+fu,PierceSAdd
+fu,PelletSAdd
+fu,Crag S Add
+fu,ClustS Add
+fu,Reload
+fu,AutoReload
+fu,Recoil
+fu,Precision
+fu,PoisonCAdd
+fu,ParalyCAdd
+fu,SleepCAdd
+fu,PowerCAdd
+fu,ClsRngCAdd
+fu,SteadyHand
+fu,Expert
+fu,Spc Attack
+fu,ElementAtk
+fu,Rec Speed
+fu,Protection
+fu,Guard Up
+fu,Evade
+fu,Evade Dist
+fu,Potential
+fu,Gunnery
+fu,Capacity
+fu,ShortCharg
+fu,Guts
+fu,Fury
+fu,Map
+fu,PsychicVis
+fu,Gathering
+fu,Carving
+fu,HiSpdGathr
+fu,Backpackng
+fu,Whim
+fu,Fishing
+fu,Heat Res
+fu,Cold Res
+fu,Terrain
+fu,Stamina
+fu,Constitutn
+fu,Hunger
+fu,Sneak
+fu,Fate
+fu,SpeedSetup
+fu,Tranquilzr
+fu,Perceive
+fu,Recovery
+fu,Everlastng
+fu,Wide Area
+fu,Throw
+fu,BombStrUp
+fu,Gluttony
+fu,Cooking
+fu,BBQ
+fu,Horn
+fu,MixSucRate
+fu,Shot Mix
+fu,Alchemy
+fu,ComrdGuide
+fu,ComradeAtk
+fu,ComradeDef
+fu,Torso Inc
