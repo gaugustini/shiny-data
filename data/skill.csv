@@ -1,4 +1,4 @@
-game,name,skill_tree,required_points,hunter_type,skill_category,description
+game,name,skill_tree,required_skill_tree_points,hunter_type,skill_category,description
 fu,Attack Up (Large),Attack,20,Blademaster/Gunner,,
 fu,Attack Up (Medium),Attack,15,Blademaster/Gunner,,
 fu,Attack Up (Small),Attack,10,Blademaster/Gunner,,

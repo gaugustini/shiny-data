@@ -5,7 +5,7 @@ INPUT_FOLDER = Path("data")
 OUTPUT_FOLDER = Path("output")
 
 FILES_DATA = ["armor.csv", "decoration.csv", "skill_tree.csv", "skill.csv"]
-FILES_TRANSLATIONS = ['head.csv', 'body.csv', 'arms.csv', 'waist.csv', 'legs.csv', 'decoration.csv', 'skill.csv', 'material.csv']
+FILES_TRANSLATIONS = ["armor.csv", "decoration.csv", "skill_tree.csv", "skill.csv", "material.csv"]
 
 def change_data_armor(data: pd.DataFrame) -> pd.DataFrame:
     # Do changes on armor data here
@@ -29,15 +29,15 @@ def change_data_translation(data: pd.DataFrame) -> pd.DataFrame:
 
 def process_file(input_path: Path, output_path: Path, transform_function):
     try:
-        data = pd.read_csv(input_path, sep=',', encoding='utf-8', dtype=object)
+        data = pd.read_csv(input_path, sep=",", encoding="utf-8", dtype=object)
         data = transform_function(data)
-        data.to_csv(output_path, index=False, sep=',', encoding='utf-8')
+        data.to_csv(output_path, index=False, sep=",", encoding="utf-8")
     except Exception as error:
         print(f"Error processing file '{input_path.name}': {error}")
 
 def main():
     if not INPUT_FOLDER.exists():
-        raise FileNotFoundError(f"Input data folder not found.")
+        raise FileNotFoundError("Input data folder not found.")
     
     (OUTPUT_FOLDER / "translations").mkdir(parents=True, exist_ok=True)
 
@@ -63,5 +63,5 @@ def main():
 
         process_file(input_file_path, output_file_path, change_data_translation)
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
