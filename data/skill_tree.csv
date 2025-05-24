@@ -1,4 +1,4 @@
-_id,name_en,name_fr,name_de,name_es,name_it,name_jp
+id,name_en,name_fr,name_de,name_es,name_it,name_jp
 1,Attack,Attaque,Angriff,Ataque,Attacco,
 2,Defense,Défense,Verteidig,Defensa,Difesa,
 3,Health,Santé,Gesundheit,Salud,Salute,

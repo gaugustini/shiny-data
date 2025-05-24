@@ -1,4 +1,4 @@
-_id,name_en,name_fr,name_de,name_es,name_it,name_jp,game,hunter_rank,village_stars,required_slots,price
+id,name_en,name_fr,name_de,name_es,name_it,name_jp,game,hunter_rank,village_stars,required_slots,price
 1,Attack Jewel,Joyau attaque,Angriffs-Juwel,Joya de ataque,Gioiello Attacco,,0,1,1,1,
 2,Fierce Jewel,Joyau ardent,Wild-Juwel,Joya fiera,Gll Fierezza,,0,1,1,2,
 3,Strongest Jewel,Joyau fort,Stärkstes Juwel,Joya más fuerte,Gll fortissimo,,0,8,10,3,

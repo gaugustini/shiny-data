@@ -1,4 +1,4 @@
-_id,name_en,name_fr,name_de,name_es,name_it,name_jp,game,skill_tree_id,required_skill_tree_points,hunter_type,skill_category
+id,name_en,name_fr,name_de,name_es,name_it,name_jp,game,skill_tree_id,required_skill_tree_points,hunter_type,skill_category
 1,Attack Up (Large),Attaque augm. (gd),Angriff hoch (sehr),Sub ataque (grande),Attacco aum.(gran.),,0,1,20,0,
 2,Attack Up (Medium),Attaque augm. (my),Angriff hoch(mittel),Sub ataque (medio),Attacco aum.(medio),,0,1,15,0,
 3,Attack Up (Small),Attaque augm. (pt),Angriff hoch (wenig),Sub ataque (peq.),Attacco aum.(picc.),,0,1,10,0,

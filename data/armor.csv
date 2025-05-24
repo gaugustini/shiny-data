@@ -1,4 +1,4 @@
-_id,name_en,name_fr,name_de,name_es,name_it,name_jp,game,armor_type,hunter_rank,village_stars,dlc_event,gender,hunter_type,rarity,num_slots,defense,max_defense,fire_res,water_res,thunder_res,ice_res,dragon_res,price
+id,name_en,name_fr,name_de,name_es,name_it,name_jp,game,armor_type,hunter_rank,village_stars,dlc_event,gender,hunter_type,rarity,num_slots,defense,max_defense,fire_res,water_res,thunder_res,ice_res,dragon_res,price
 1,Mafumofu Hood,Capuchon Mafumofu,Mafumofu-Kapuze,Capucha Mafumofu,Cappuccio Mafumofu,,0,0,1,1,,0,0,1,0,1,,0,0,0,3,0,
 2,Leather Helm,Casque en cuir,Lederhelm,Casco de Cuero,Elmo di Cuoio,,0,0,1,1,,0,0,1,1,2,,2,0,0,0,0,
 3,Chain Helm,Casque en mailles,Kettenhelm,Casco Cota de Malla,Elmo Maglia di Ferro,,0,0,1,1,,0,0,1,1,4,,2,2,-2,1,0,
